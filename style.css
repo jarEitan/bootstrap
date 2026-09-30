@@ -1,3 +1,7 @@
+:root {
+  --bs-secondary-rgb: 170, 170, 170 !important;
+}
+
 main {
     padding: 0 10%;
 }
@@ -80,4 +84,14 @@ header{
 .boton:disabled::after {
     box-shadow: none;
     background: none;
+}
+
+.badge-xxl{
+    font-size: 200% !important;
+}
+
+.card{
+    background-color: #2b2b2b !important;
+    box-shadow: 0px 0px 15px 1px #ffffff80 !important;
+    border: none !important;
 }
