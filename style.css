@@ -115,7 +115,8 @@ header {
 }
 
 .accordion-button {
-    color: #ffffff !important;
     font-weight: bold;
     font-size: 1.2rem !important;
+    --bs-accordion-active-color: #b9b9b9 !important;
+    --bs-accordion-btn-color: #0DCAF0 !important;
 }
