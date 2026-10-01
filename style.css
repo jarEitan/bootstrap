@@ -113,3 +113,9 @@ header {
     height: auto;
     margin-left: 20%;
 }
+
+.accordion-button {
+    color: #ffffff !important;
+    font-weight: bold;
+    font-size: 1.2rem !important;
+}
