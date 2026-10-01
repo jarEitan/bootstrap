@@ -87,7 +87,7 @@ header {
 }
 
 .badge-xxl {
-    font-size: 200% !important;
+    font-size: 170% !important;
 }
 
 .card {
@@ -112,6 +112,8 @@ header {
     width: 60%;
     height: auto;
     margin-left: 20%;
+    border-radius: var(--bs-border-radius);
+    box-shadow: 0px 0px 15px 1px #ffffff80 !important;
 }
 
 .accordion-button {
